@@ -1,6 +1,6 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Carmander
+description: Portfolio Website
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -9,9 +9,7 @@ username: Carman Chiu
 user_description: Hi there! I’ve recently completed a Full-Stack Software Development Apprenticeship Program at Discovery Partners Institute after pivoting from the healthcare field as a Medical Laboratory Scientist. My passions lie in healthcare and technology. I'm continually learning and building upon knowledge within those two fields, and I hope to use my skills to create a positive impact on others and contribute to a more advanced world.
 user_title: Software Developer
 email: carmanc.chiu@gmail.com
-twitter_username: lorem_ipsum
 github_username:  carmanchiu
-gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
@@ -20,4 +18,4 @@ google-analytics:
 exclude: ['package.json', 'src' , 'node_modules']
 
 # Auto-regeneration
-watch: true
+# watch: true
